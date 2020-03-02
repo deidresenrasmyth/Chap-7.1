@@ -1,0 +1,7 @@
+E:\IBT\C# Windows Form\Chapter07TryOut01\Chapter07TryOut01\bin\Debug\Chapter07TryOut01.exe.config
+E:\IBT\C# Windows Form\Chapter07TryOut01\Chapter07TryOut01\bin\Debug\Chapter07TryOut01.exe
+E:\IBT\C# Windows Form\Chapter07TryOut01\Chapter07TryOut01\bin\Debug\Chapter07TryOut01.pdb
+E:\IBT\C# Windows Form\Chapter07TryOut01\Chapter07TryOut01\obj\Debug\Chapter07TryOut01.csprojAssemblyReference.cache
+E:\IBT\C# Windows Form\Chapter07TryOut01\Chapter07TryOut01\obj\Debug\Chapter07TryOut01.csproj.CoreCompileInputs.cache
+E:\IBT\C# Windows Form\Chapter07TryOut01\Chapter07TryOut01\obj\Debug\Chapter07TryOut01.exe
+E:\IBT\C# Windows Form\Chapter07TryOut01\Chapter07TryOut01\obj\Debug\Chapter07TryOut01.pdb
